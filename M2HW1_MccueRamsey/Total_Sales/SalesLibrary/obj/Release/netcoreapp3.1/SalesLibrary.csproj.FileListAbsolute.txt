@@ -1,0 +1,9 @@
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\obj\Release\netcoreapp3.1\SalesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\obj\Release\netcoreapp3.1\SalesLibrary.AssemblyInfoInputs.cache
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\obj\Release\netcoreapp3.1\SalesLibrary.AssemblyInfo.cs
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\obj\Release\netcoreapp3.1\SalesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\bin\Release\netcoreapp3.1\SalesLibrary.deps.json
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\bin\Release\netcoreapp3.1\SalesLibrary.dll
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\bin\Release\netcoreapp3.1\SalesLibrary.pdb
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\obj\Release\netcoreapp3.1\SalesLibrary.dll
+C:\Users\HarambeCrompten\source\School\Total_Sales\SalesLibrary\obj\Release\netcoreapp3.1\SalesLibrary.pdb

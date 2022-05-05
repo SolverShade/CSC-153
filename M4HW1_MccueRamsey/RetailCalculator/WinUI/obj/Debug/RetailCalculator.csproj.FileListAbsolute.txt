@@ -1,0 +1,10 @@
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\bin\Debug\RetailCalculator.exe.config
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\bin\Debug\RetailCalculator.exe
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\bin\Debug\RetailCalculator.pdb
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.csproj.AssemblyReference.cache
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.Form1.resources
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.Properties.Resources.resources
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.csproj.GenerateResource.cache
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.exe
+C:\Users\HarambeCrompten\source\repos\WinUI\RetailCalculator\obj\Debug\RetailCalculator.pdb
